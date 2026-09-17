@@ -9,6 +9,23 @@ Finally, the project includes a full interactive dashboard for business decision
 
 Architecture is modular and allows extending the system with new datasets, analytical modules, or machine‑learning models.
 
+## 📸 Dashboard Preview
+
+Here are a few key views from the interactive Dash dashboard:
+
+<p align="center">
+  <img src="reports/dashboard_kpi.png" alt="KPI Dashboard" width="600" />
+</p>
+
+<p align="center">
+  <img src="reports/dashboard_geo.png" alt="Geography Dashboard" width="600" />
+</p>
+
+<p align="center">
+  <img src="reports/dashboard_sales.png" alt="Sales Dashboard" width="600" />
+</p>
+
+
 ## 📁 Project Structure
 
 analytics_project/  
