@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover-marketing-sales-analytics.png" alt="Marketing & Sales Analytics Platform" />
+</p>
+
 # 📘 Marketing & Sales Analytics Platform 
 A complete analytical system designed for CRM, marketing, and sales performance analysis.
 The project processes raw CRM datasets, cleans and transforms them, performs descriptive analytics, evaluates campaign and sales efficiency, analyzes geographic and language‑level patterns, builds unit economics, tests HADI growth hypotheses, and generates machine‑learning forecasts.
