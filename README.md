@@ -27,6 +27,7 @@ analytics_project/
 │
 └── reports/
     └── screenshots.pdf
+
     
 ## 🚀 Project Overview
 
