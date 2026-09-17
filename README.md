@@ -7,29 +7,40 @@ Architecture is modular and allows extending the system with new datasets, analy
 
 ## 📁 Project Structure
 
-analytics_project/
-│
-├── data/
-│   ├── Calls (CRM).xlsx
-│   ├── Contacts (CRM).xlsx
-│   ├── Deals (CRM).xlsx
-│   ├── Spend (CRM).xlsx
-│   └── city_coords_full.csv
-│
-├── notebooks/
-│   ├── File 01.Data_Cleaning.ipynb
-│   ├── File 02.Descriptive_Statistics_and_Basic_Deals_Analysis.ipynb
-│   ├── File 03.Campaign_Effectiveness_Analysis.ipynb
-│   ├── File 04.Sales_Department_Efficiency_Analysis.ipynb
-│   ├── File 05.Geography_and_German_Level_Analysis.ipynb
-│   ├── File 06.Unit_Economics_and_Growth_Hypotheses.ipynb
-│   └── File 07.Dashboard.ipynb
-│
-└── reports/
-    └── screenshots.pdf
+analytics_project/  
+   ↓  
+data/  
+   ↓  
+Calls (CRM).xlsx  
+   ↓  
+Contacts (CRM).xlsx  
+   ↓  
+Deals (CRM).xlsx  
+   ↓  
+Spend (CRM).xlsx  
+   ↓  
+city_coords_full.csv  
+   ↓  
+notebooks/  
+   ↓  
+File 01.Data_Cleaning.ipynb  
+   ↓  
+File 02.Descriptive_Statistics_and_Basic_Deals_Analysis.ipynb  
+   ↓  
+File 03.Campaign_Effectiveness_Analysis.ipynb  
+   ↓  
+File 04.Sales_Department_Efficiency_Analysis.ipynb  
+   ↓  
+File 05.Geography_and_German_Level_Analysis.ipynb  
+   ↓  
+File 06.Unit_Economics_and_Growth_Hypotheses.ipynb  
+   ↓  
+File 07.Dashboard.ipynb  
+   ↓  
+reports/  
+   ↓  
+screenshots.pdf
 
-
-    
 ## 🚀 Project Overview
 
 ### 🔹 Raw Data
