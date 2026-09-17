@@ -11,20 +11,27 @@ Architecture is modular and allows extending the system with new datasets, analy
 
 ## 📸 Dashboard Preview
 
-Here are a few key views from the interactive Dash dashboard:
+Here are several key views from the interactive Dash dashboard:
 
 <p align="center">
-  <img src="reports/dashboard_kpi.png" alt="KPI Dashboard" width="600" />
+  <img src="reports/18.png" alt="Revenue jump by Scenario (TOTAL)" width="600" />
 </p>
 
 <p align="center">
-  <img src="reports/dashboard_geo.png" alt="Geography Dashboard" width="600" />
+  <img src="reports/1.png" alt="Full Project Dashboard – Deals by Month" width="600" />
 </p>
 
 <p align="center">
-  <img src="reports/dashboard_sales.png" alt="Sales Dashboard" width="600" />
+  <img src="reports/2.png" alt="Full Project Dashboard – Pipeline Overview" width="600" />
 </p>
 
+<p align="center">
+  <img src="reports/3.png" alt="Daily & Monthly Total Revenue" width="600" />
+</p>
+
+<p align="center">
+  <img src="reports/16.png" alt="Unit Economics Metrics Diagram" width="600" />
+</p>
 
 ## 📁 Project Structure
 
