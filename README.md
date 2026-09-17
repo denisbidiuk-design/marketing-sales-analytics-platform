@@ -175,10 +175,13 @@ Built in File 07.Dashboard.ipynb:
 Screenshots saved in reports/screenshots.pdf.
 
 ### 🛠 How to Use the Project
+
 You can open and run all notebooks using:
 
- ✔ Jupyter Notebook
- ✔ Visual Studio Code (with Python extension)
- ✔ Google Colab
+- Jupyter Notebook  
+- Visual Studio Code (with Python extension)  
+- Google Colab  
+
 No terminal commands are required.
-Simply open any .ipynb file and run the cells.
+
+Simply open any `.ipynb` file from the `notebooks/` folder and run the cells step by step.
